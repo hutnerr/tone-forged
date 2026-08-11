@@ -1,4 +1,4 @@
-> This project is no longer maintained.
+> This project is no longer maintained as it was mostly a way to get some hands on experience and exposure with some new technologies. 
 
 ## Overview
 ToneForged is a public API that converts text into specific lingos. For example, using the "Pirate" lingo, it might convert:
